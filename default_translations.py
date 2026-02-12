@@ -239,6 +239,49 @@ DEFAULT_PARAM_TRANSLATIONS = {
         "zipcode": "Code ZIP",
         "zusatz": "Addition",
     },
+    "cs": {
+        "address": "Adresa",
+        "address_id": "ID adresy",
+        "address_name_number": "Název nebo číslo adresy",
+        "api_key": "API klíč",
+        "apikey": "API klíč",
+        "auto_suffix": "Automatická přípona",
+        "calendar_title": "Název kalendáře",
+        "city": "Město",
+        "city_part": "Část města",
+        "district": "Okres",
+        "file": "Soubor",
+        "house_number": "Číslo domu",
+        "house_number_suffix": "Doplněk čísla domu",
+        "id": "ID",
+        "ignored_containers": "Ignorované popelnice",
+        "key": "Klíč",
+        "lat": "Zeměpisná šířka",
+        "lon": "Zeměpisná délka",
+        "municipality": "Obec",
+        "name": "Název",
+        "official_page_url": "Oficiální stránka města",
+        "only_monitored": "Pouze sledované",
+        "page_url": "URL stránky",
+        "postal_code": "PSČ",
+        "postcode": "PSČ",
+        "radius": "Poloměr",
+        "registrationNumber": "Registrační číslo",
+        "region": "Region",
+        "state": "Stát/region",
+        "street": "Ulice",
+        "street_id": "ID ulice",
+        "street_name": "Název ulice",
+        "street_number": "Číslo domu",
+        "suffix": "Přípona",
+        "token": "Token",
+        "town": "Město",
+        "uprn": "Jedinečné číslo nemovitosti (Velká Británie)",
+        "url": "URL",
+        "village": "Obec",
+        "zip": "PSČ",
+        "zip_code": "PSČ",
+    },
 }
 
 
@@ -254,6 +297,9 @@ DEFAULT_PARAM_DESCRIPTIONS = {
     },
     "fr": {
         "uprn": "Une manière simple de retrouver votre numéro unique de propriété (UPRN) est de vous rendre sur https://www.findmyaddress.co.uk/ et de saisir les détails de votre adresse."
+    },
+    "cs": {
+        "uprn": "Jednoduchý způsob, jak zjistit Unique Property Reference Number (UPRN), je navštívit https://www.findmyaddress.co.uk/ a zadat podrobnosti o adrese."
     },
 }
 
